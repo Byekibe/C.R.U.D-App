@@ -1,0 +1,16 @@
+.color-black {
+    color: black;
+}
+
+.jumbo-text {
+    color: black;
+}
+
+.card {
+    padding: 0;
+}
+
+.jumbotron {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
